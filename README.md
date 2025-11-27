@@ -36,8 +36,8 @@ The challenge was to build this using **React Native, Expo, TypeScript, Supabase
 
 ### Step 1: Clone My Repo
 ```bash
-git clone https://github.com/sdrdray/CALLUS-SUBMISSION-SUBHRADIP.git
-cd CALLUS-SUBMISSION-SUBHRADIP
+git clone https://github.com/sdrdray/dance-app-SUBMISSION-SUBHRADIP.git
+cd dance-app-SUBMISSION-SUBHRADIP
 ```
 
 ### Step 2: Install Dependencies
@@ -141,7 +141,7 @@ If I had more time, I'd add:
 
 ## 📱 Test It Out
 
-The app is at: https://github.com/sdrdray/CALLUS-SUBMISSION-SUBHRADIP
+The app is at: https://github.com/sdrdray/dance-app-SUBMISSION-SUBHRADIP
 
 Clone it and run it
 
